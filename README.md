@@ -1,8 +1,8 @@
-# Chrome Extension Installer - Easy Setup Guide
+# Chr0me Extension Installer - Easy Setup Guide
 
 ![Chrome Extension Installer Screenshot](https://github.com/sharp4real/extensioninstaller/blob/main/unnamed.png?raw=true)
 
-A simple **Windows program** that helps you install Chrome extensions from any source quickly and safely.
+A simple **Windows program** that helps you install Chr0me extensions from any source quickly and safely.
 
 ---
 
@@ -35,7 +35,7 @@ This program simplifies Chrome extension installation by:
    - ✅ Force Install (for more reliable installation)  
 4. Click **Install Extension**  
 
-### Step 4: Check Chrome
+### Step 4: Check Chr0me
 - Open Chrome and go to: `chrome://extensions`  
 - Make sure your new extension appears  
 - Turn it on if needed  
@@ -53,7 +53,7 @@ This program simplifies Chrome extension installation by:
 ## ⚠️ Important Notes
 
 - This tool **only works on Windows**  
-- Chrome must already be installed  
+- Chr0me must already be installed  
 - Some extensions may still require manual approval in Chrome  
 
 ---
