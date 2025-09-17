@@ -1,57 +1,61 @@
-Chrome Extension Installer - Easy Setup Guide
-📌 What This Tool Does
-This simple Windows program helps you install Chrome extensions from any source by:
+# Chrome Extension Installer - Easy Setup Guide
 
-Turning on Chrome's Developer Mode automatically
+![Chrome Extension Installer Screenshot](https://github.com/sharp4real/extensioninstaller/blob/main/unnamed.png?raw=true)
 
-Installing extensions directly from web links (CRX files)
+A simple **Windows program** that helps you install Chrome extensions from any source quickly and safely.
 
-Bypassing Chrome's normal security warnings
+---
 
-🚀 How to Use It
-Step 1: Download
-Get the .exe file from the Releases section
+## 📌 What This Tool Does
 
-Save it anywhere on your computer
+This program simplifies Chrome extension installation by:
 
-Step 2: Run the Installer
-Double-click the .exe file
+- Automatically **turning on Chrome's Developer Mode**  
+- Installing extensions directly from **web links (CRX files)**  
+- Bypassing Chrome's normal security warnings  
 
-If Windows asks, click "More info" then "Run anyway"
+---
 
-Step 3: Install Your Extension
-Paste the CRX file web address in the first box
-(Example: https://example.com/your-extension.crx)
+## 🚀 How to Use It
 
-(Optional) Enter the Extension ID if you know it
+### Step 1: Download
+- Get the `.exe` file from the **Releases** section  
+- Save it anywhere on your computer  
 
-Check the options you want:
+### Step 2: Run the Installer
+- Double-click the `.exe` file  
+- If Windows asks, click **More info** then **Run anyway**  
 
-✅ Enable Developer Mode (recommended)
+### Step 3: Install Your Extension
+1. Paste the CRX file web address in the first box  
+   *(Example: `https://example.com/your-extension.crx`)*  
+2. *(Optional)* Enter the **Extension ID** if you know it  
+3. Check the options you want:  
+   - ✅ Enable Developer Mode (recommended)  
+   - ✅ Force Install (for more reliable installation)  
+4. Click **Install Extension**  
 
-✅ Force Install (for more reliable installation)
+### Step 4: Check Chrome
+- Open Chrome and go to: `chrome://extensions`  
+- Make sure your new extension appears  
+- Turn it on if needed  
 
-Click "Install Extension"
+---
 
-Step 4: Check Chrome
-Open Chrome and go to: chrome://extensions
+## 🔧 Troubleshooting
 
-Make sure your new extension appears
+- Close Chrome completely before installing  
+- Right-click the program and select **Run as administrator**  
+- Make sure your CRX link is correct  
 
-Turn it on if needed
+---
 
-🔧 Troubleshooting
-If something doesn't work:
+## ⚠️ Important Notes
 
-Try closing Chrome completely before installing
+- This tool **only works on Windows**  
+- Chrome must already be installed  
+- Some extensions may still require manual approval in Chrome  
 
-Right-click the program and select "Run as administrator"
+---
 
-Make sure your CRX link is correct
-
-⚠️ Important Notes
-This tool only works on Windows
-
-You'll need Chrome already installed
-
-Some extensions might still need manual approval in Chrome
+Made for **fast, hassle-free extension installation**.
